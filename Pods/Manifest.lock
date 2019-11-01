@@ -1,0 +1,24 @@
+PODS:
+  - AMapFoundation (1.5.6)
+  - AMapLocation (2.6.1):
+    - AMapFoundation (~> 1.4)
+  - BMKLocationKit (1.4.0)
+
+DEPENDENCIES:
+  - AMapLocation
+  - BMKLocationKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AMapFoundation
+    - AMapLocation
+    - BMKLocationKit
+
+SPEC CHECKSUMS:
+  AMapFoundation: 20fce2a12cd152e1092afdd04379cdac21932185
+  AMapLocation: cf024b53dc03663efb4ea4bcce27d4cce58bb97a
+  BMKLocationKit: ca1343eea19b2f2e999d1ad51bd6a1f1220f3456
+
+PODFILE CHECKSUM: 47cf1d9b60933ca37fa5557befd80d05b7b83b86
+
+COCOAPODS: 1.5.3
